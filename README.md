@@ -12,7 +12,7 @@ A coding compiler that allows people to write pseudocode and then have it be con
 7. Finally please type the names of both your text file and your C file. Like in figure 1.3.
 That's it! Your done! Thanks!
 
-###Figure 1.1
+##Figure 1.1
 <img width="690" height="114" alt="step1" src="https://github.com/user-attachments/assets/04394fe7-5548-41ca-a2fd-979e8270fdfe" />
 ##Figure 1.2
 <img width="289" height="171" alt="step2" src="https://github.com/user-attachments/assets/cf453c2c-2dc4-4aa1-9cff-fe54fc6c28f7" />
