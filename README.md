@@ -1,20 +1,40 @@
-# AIcompiler
-A coding compiler that allows people to write pseudocode and then have it be converted into normal C code. You *will* need to have GCC set up and will need to compile your code, it does write your code for you though. Here's how to use it!
+#AIcompiler
+AIcompiler is a tool that lets you write pseudocode and automatically converts it into standard C code. Although the tool generates your C code, you will still need to have GCC installed to compile it yourself. Follow the steps below to get started!
 
-## Here are the following steps needed!
+##Getting Started
+Prerequisites
+Install Python (version 3.x recommended).
 
-1. This will not be explained in this tutorial but please download both Python and GCC
-2. Clone the repo using by going into the terminal and running `git clone https://github.com/LordWeegie/AIcompiler.git` (this requires git to be installed)
-3. Please enter the repo you just cloned and open the python file in any text editor.
-4. You are going to need to change the API key, please put your deepseek API key inside the highlited box in figure 1.1, if it's not a deepseek API you will need to change the URL but I will only be explaining this for deepseek.
-5. Please create the files shown in figure 1.2 they may be called anything you wish but must contain the file extensions shown in figure 1.2.
-6. You will now need to run the file. If you are on windows please run `python main.py` if you are on any UNIX based operating system please run `python3 main.py`.
-7. Finally please type the names of both your text file and your C file. Like in figure 1.3.
-That's it! Your done! Thanks!
+Install GCC (GNU Compiler Collection) to compile your C code.
 
-##Figure 1.1
+Install Git if you want to clone the repository using the terminal.
+
+Installation and Setup
+Clone the repository by running the following command in your terminal:
+`git clone https://github.com/LordWeegie/AIcompiler.git`
+Navigate into the cloned repository:
+`cd AIcompiler`
+
+Open the Python script (main.py) in your preferred text editor.
+
+Locate the highlighted section shown in Figure 1.1 within main.py, and replace the placeholder with your Deepseek API key. If you are using a different API, you will need to update the URL accordingly. This guide covers only the Deepseek API configuration.
+
+Create the input and output files as shown in Figure 1.2. You can name these files anything you want, but ensure they have the correct extensions (e.g., .txt for input pseudocode and .c for the output C code).
+
+Run the Python script:
+
+On Windows, run:
+`python main.py`
+On Unix-based systems (Linux, macOS), run:
+`python3 main.py`
+
+When prompted (see Figure 1.3), enter the names of your input pseudocode file and your desired output C file.
+
+That's it! Your pseudocode will be converted into C code, ready for you to compile and run. Thank you for using AIcompiler!
+
+Figure 1.1: API Key Configuration
 <img width="690" height="114" alt="step1" src="https://github.com/user-attachments/assets/04394fe7-5548-41ca-a2fd-979e8270fdfe" />
-##Figure 1.2
+Figure 1.2: Required Files Setup
 <img width="289" height="171" alt="step2" src="https://github.com/user-attachments/assets/cf453c2c-2dc4-4aa1-9cff-fe54fc6c28f7" />
-##Figure 1.3
+Figure 1.3: Running the Script and Entering File Names
 <img width="522" height="32" alt="step3" src="https://github.com/user-attachments/assets/986edfba-88c0-4a5e-b01a-3c305825faf6" />
