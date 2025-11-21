@@ -3,7 +3,7 @@ from openai import OpenAI
 
 client = OpenAI(api_key=os.environ.get('deepseekapi'), base_url="https://api.deepseek.com")
 filepath = input("What is the file with your pseudocode? ")
-codepath = input("What is the C file that you want to put the working code into. ")
+codepath = input("What is the C file that you want to put the working code into? ")
 
 with open(filepath, 'r') as file:
     content = file.read()
