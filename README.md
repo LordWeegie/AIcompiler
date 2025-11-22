@@ -1,7 +1,7 @@
-#AIcompiler
+# AIcompiler
 AIcompiler is a tool that lets you write pseudocode and automatically converts it into standard C code. Although the tool generates your C code, you will still need to have GCC installed to compile it yourself. Follow the steps below to get started!
 
-##Getting Started
+## Getting Started
 Prerequisites
 Install Python (version 3.x recommended).
 
@@ -9,7 +9,7 @@ Install GCC (GNU Compiler Collection) to compile your C code.
 
 Install Git if you want to clone the repository using the terminal.
 
-Installation and Setup
+## Installation and Setup
 Clone the repository by running the following command in your terminal:
 `git clone https://github.com/LordWeegie/AIcompiler.git`
 Navigate into the cloned repository:
@@ -32,9 +32,10 @@ When prompted (see Figure 1.3), enter the names of your input pseudocode file an
 
 That's it! Your pseudocode will be converted into C code, ready for you to compile and run. Thank you for using AIcompiler!
 
+# Visual References
 Figure 1.1: API Key Configuration
-<img width="690" height="114" alt="step1" src="https://github.com/user-attachments/assets/04394fe7-5548-41ca-a2fd-979e8270fdfe" />
+<img src="https://github.com/user-attachments/assets/04394fe7-5548-41ca-a2fd-979e8270fdfe" alt="step1" style="max-width:500px; width:100%;" />
 Figure 1.2: Required Files Setup
-<img width="289" height="171" alt="step2" src="https://github.com/user-attachments/assets/cf453c2c-2dc4-4aa1-9cff-fe54fc6c28f7" />
-Figure 1.3: Running the Script and Entering File Names
-<img width="522" height="32" alt="step3" src="https://github.com/user-attachments/assets/986edfba-88c0-4a5e-b01a-3c305825faf6" />
+<img src="https://github.com/user-attachments/assets/cf453c2c-2dc4-4aa1-9cff-fe54fc6c28f7" alt="step2" style="max-width:300px; width:100%;" />
+Figure 1.3: Running the Script
+<img src="https://github.com/user-attachments/assets/986edfba-88c0-4a5e-b01a-3c305825faf6" alt="step3" style="max-width:520px; width:100%;" />
