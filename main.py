@@ -1,7 +1,7 @@
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key=os.environ.get('deepseekapi'), base_url="https://api.deepseek.com")
+client = OpenAI(api_key="", base_url="https://api.deepseek.com")
 filepath = input("What is the file with your pseudocode? ")
 codepath = input("What is the C file that you want to put the working code into? ")
 
