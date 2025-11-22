@@ -32,6 +32,8 @@ When prompted (see Figure 1.3), enter the names of your input pseudocode file an
 
 That's it! Your pseudocode will be converted into C code, ready for you to compile and run. Thank you for using AIcompiler!
 
+*The new code is put into the C file for you! You don't need to copy it!*
+
 # Visual References
 ## Figure 1.1: API Key Configuration
 <img src="https://github.com/user-attachments/assets/04394fe7-5548-41ca-a2fd-979e8270fdfe" alt="step1" style="max-width:500px; width:100%;" />
