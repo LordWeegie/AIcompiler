@@ -33,9 +33,9 @@ When prompted (see Figure 1.3), enter the names of your input pseudocode file an
 That's it! Your pseudocode will be converted into C code, ready for you to compile and run. Thank you for using AIcompiler!
 
 # Visual References
-### Figure 1.1: API Key Configuration
+## Figure 1.1: API Key Configuration
 <img src="https://github.com/user-attachments/assets/04394fe7-5548-41ca-a2fd-979e8270fdfe" alt="step1" style="max-width:500px; width:100%;" />
-### Figure 1.2: Required Files Setup
+## Figure 1.2: Required Files Setup
 <img src="https://github.com/user-attachments/assets/cf453c2c-2dc4-4aa1-9cff-fe54fc6c28f7" alt="step2" style="max-width:300px; width:100%;" />
-### Figure 1.3: Running the Script
+## Figure 1.3: Running the Script
 <img src="https://github.com/user-attachments/assets/986edfba-88c0-4a5e-b01a-3c305825faf6" alt="step3" style="max-width:520px; width:100%;" />
